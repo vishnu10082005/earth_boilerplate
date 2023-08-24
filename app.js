@@ -33,7 +33,6 @@ consumption.onclick=()=>{
     savetext.innerHTML="Do your bit! Shop only what you need,eat only what you need and always save the leftovers.    "
     //buttons 
     consumption.style.background="#27AE60"
-    
     climate.style.background="transparent"
     people.style.background="transparent"
     resources.style.background="transparent"
